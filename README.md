@@ -12,7 +12,7 @@ The Bus Application is a web application developed using React.js with API integ
 
 ## Installation
 
-### Frontend (javascript)
+### Frontend (Javascript)
 
 To install and run the Bus Application locally, follow these steps:
 
@@ -20,62 +20,52 @@ To install and run the Bus Application locally, follow these steps:
 
 ```
 git clone https://github.com/KC0149/busApp.git
-
 ```
 
-2. Navigate to the busApp javascript directory:
+2. Navigate to the busApp Javascript directory:
 
 ```
 cd busApp-react
-
 ```
 
 3. Install dependencies:
 
 ```
 npm install
-
 ```
 
 4. Start the development server:
 
 ```
 npm run dev
-
 ```
 
-### Frontend (typescript)
+### Frontend (Typescript)
 
 To install and run the Bus Application locally, follow these steps:
 
 1. Clone the Bus Application repository to your local machine:
 
 ```
-
 git clone https://github.com/KC0149/busApp.git
-
 ```
 
-2. Navigate to the busApp typescript directory:
+2. Navigate to the busApp Typescript directory:
 
 ```
-
 cd busApp-typescript
-
 ```
 
 3. Install dependencies:
 
 ```
 npm install
-
 ```
 
 4. Start the development server:
 
 ```
 npm run dev
-
 ```
 
 11. Open your web browser and navigate to `http://localhost:5173` to access the Bus application.
