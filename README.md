@@ -80,18 +80,26 @@ Once the Bus Application is running, users can perform the following actions:
 
 - **View Route Details**: Users can view detailed information about each bus route, including stops, schedules, and estimated arrival times.
 
+- **Toggle Between routes**: Toggle between original route and another showing the route adjusted to follow roads.
+
 - **Interactive Map**: The application features an interactive map that dynamically displays bus routes and related details. Users can click on the routes to access more information.
 
 - **API Integration**: Bus route data is fetched from designated APIs, ensuring up-to-date and accurate information for users.
 
 ## Features
 
-The Bus Application offers the following features:
+The Bus Application offers the following capabilities:
 
-- **Explore Bus Routes**: Users can search for bus routes based on vehicle reference or published line selections. Additionally, users can select road types to search by different axis types.
+- **Search and Filter Routes**: Easily find bus routes by vehicle reference or published line selections. Filter routes by road types for specific axis types.
+- **Route Information**: Access comprehensive details about each bus route, including stops, schedules, and estimated arrival times.
+- **Interactive Map Display**: Visualize bus routes dynamically on an interactive map. Click on routes to explore additional information.
 
-- **View Route Details**: Detailed information about each bus route is available, including stops, schedules, and estimated arrival times.
+- **Real-time Data**: Fetch bus route data from designated APIs, ensuring up-to-date and accurate information for users.
 
-- **Interactive Map**: The application features an interactive map that dynamically displays bus routes and related details. Users can click on the routes to access more information.
+- **Search History**: Retain the top 5 search history for easy access to recent searches.
 
-- **API Integration**: Bus route data is fetched from designated APIs, ensuring up-to-date and accurate information for users.
+- **Progress Bar**: Display a progress bar when loading data to provide visual feedback to users while calling the API in the backend.
+
+- **Toggle Between GeoJSON**: Toggle between two GeoJSON representations - one showing the original route and another showing the route adjusted to follow roads.
+
+- **React Window for Virtualization**: Utilize React Window for efficient virtualization of large lists, optimizing performance when displaying large amounts of data.
