@@ -70,7 +70,7 @@ npm install
 npm run dev
 ```
 
-11. Open your web browser and navigate to `http://localhost:5173` to access the Task Management System.
+11. Open your web browser and navigate to `http://localhost:5173` to access the Bus application.
 
 ## Usage
 
