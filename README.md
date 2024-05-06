@@ -1,6 +1,6 @@
 # Bus Application
 
-The Bus Application is a web application developed using React.js with API integration. It aims to provide users with an intuitive interface to explore bus routes based on vehicle reference or published line selections. The core focus of the project is to fetch data from designated APIs and dynamically present it on a map, ensuring a seamless experience for users accessing bus routes and related details.
+The Bus Application is a web application developed using React.js with API integration. Designed with CSS and Tailwind CSS, and utilizing both JavaScript and TypeScript, the application provides users with an intuitive interface to explore bus routes based on vehicle reference, published line selections, or axis type. By fetching data from designated APIs, the application dynamically presents route information on a map with various functionalities, ensuring a seamless experience for users accessing bus routes and related details.
 
 ![image](https://github.com/KC0149/busApp/assets/115627529/7780a058-866f-4140-9ac0-0246d8de6b32)
 
